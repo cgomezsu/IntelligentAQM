@@ -1,6 +1,6 @@
-# Intelligent AQM
+# Intelligent Active Queue Management (AQM)
 
-Code for the evaluation of the Intelligent AQM method through experiments run in Mininet network emulator.
+Code for the evaluation of an AQM method based on Machine Learning techniques, through experiments run in Mininet network emulator.
 
 Dependencies:
 •	Python 2.7
