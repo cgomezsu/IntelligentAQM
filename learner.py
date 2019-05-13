@@ -31,12 +31,12 @@ SOFTWARE.
 import random
 import numpy as np
 
-random.seed(7)										# For reproducibility
+random.seed(7)						# For reproducibility
 
 ## Initializing learning parameters:
 
-S = 100												# States
-A = len(np.arange(50, 5050, 50))					# Actions
+S = 100							# States
+A = len(np.arange(50, 5050, 50))			# Actions
 Q = np.zeros(shape=[S,A], dtype=np.float32)  		# Q-Table
 gamma = 0.8
 alpha = 0.5											
