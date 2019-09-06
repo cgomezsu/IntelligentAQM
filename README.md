@@ -19,4 +19,6 @@ Instructions:
 4.	For CoDel, use codel instead of fq_codel when setting the AQM in R1
 5.	Power function results are saved in .npy files and AQM statistics in a .stat file
 
-NOTE: This code is the software implementation of the method described in a manuscript that is under review. The rest of the scripts will be released once the review process is finished.
+NOTE: This code is the software implementation of some experiments described in a paper to be presented at the IEEE Global Communications Conference -GLOBECOM- 2019. If you use all or part of the code for your works, please cite as follows:
+
+Gomez, C.A.; Wang, X.; Shami, A. Intelligent Active Queue Management Using Explicit Congestion Notification. Preprints 2019, 2019090077 (doi: 10.20944/preprints201909.0077.v1).
