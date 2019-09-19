@@ -21,4 +21,6 @@ Instructions:
 
 NOTE: This code is the software implementation of some experiments described in a paper to be presented at the IEEE Global Communications Conference -GLOBECOM- 2019. If you use all or part of the code for your works, please cite as follows:
 
-Gomez, C.A.; Wang, X.; Shami, A. Intelligent Active Queue Management Using Explicit Congestion Notification. Preprints 2019, 2019090077 (doi: 10.20944/preprints201909.0077.v1).
+C. A. Gomez, X. Wang, and A. Shami, “Intelligent Active Queue Management Using Explicit Congestion Notification,” arXiv:1909.08386 [cs, stat], Aug. 2019.
+
+URL: http://arxiv.org/abs/1909.08386
